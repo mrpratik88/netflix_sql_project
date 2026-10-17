@@ -1,3 +1,2 @@
 # Netflix_SQL_Project
-[Netflix Logp] (/netflix_sql_project_logo.png at main · najirh_netflix_sql_project · GitHub.html
-)
+[Netflix Logp] (https://github.com/mrpratik88/netflix_sql_project/blob/main/netfliximages.jpg)
